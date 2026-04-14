@@ -4,9 +4,9 @@
 
 <br />
 
-<table align="center" width="100%">
+<table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top" style="padding: 10px;">
       <h3 align="center">🛠 Tech Stack</h3>
       <p align="left"><b>Frontend</b></p>
       <p align="center">
@@ -27,10 +27,11 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
       </p>
     </td>
-    <td width="50%" valign="top">
+    
+    <td width="55%" valign="top" style="padding: 10px;">
       <h3 align="center">📊 GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&theme=radical&count_private=true" width="100%" alt="kmc8260's github stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmc8260&show_icons=true&theme=radical&count_private=true" width="100%">
       </p>
     </td>
   </tr>
