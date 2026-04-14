@@ -29,9 +29,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-mu-eight-92.vercel.app/api?username=kmc8260&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="60%"/>
 
-<img src="https://github-readme-stats-mu-eight-92.vercel.app/api/top-langs/?username=kmc8260&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmc8260&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
