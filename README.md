@@ -2,7 +2,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+
       <h3>🛠 Tech Stack</h3>
       <p><b>Frontend</b></p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> 
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
     </td>
-    <td width="50%" valign="top">
+
       <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&theme=radical" width="100%">
     </td>
