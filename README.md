@@ -17,8 +17,8 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&theme=radical" width="100%">
-    </td>
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&theme=radical" width="100%">
+</td>
   </tr>
 </table>
