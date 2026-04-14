@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving" />
+<img src="https://github-readme-stats.vercel.app/api?username=kmc8260" />
