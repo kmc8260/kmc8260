@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%3A%29&fontSize=50"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=%3A%29&fontSize=50" />
-</div>
-
-<br />
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
