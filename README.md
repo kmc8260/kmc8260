@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%3A%29&fontSize=50"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=%3A%29&fontSize=50" width="100%" />
+</div>
+
+<br />
 
 <table align="center" width="100%">
   <tr>
@@ -26,7 +30,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📊 GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&theme=radical&count_private=true" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&theme=radical&count_private=true" width="100%" alt="kmc8260's github stats" />
       </p>
     </td>
   </tr>
