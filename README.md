@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome&desc=Hello%20World" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=300&section=header&text=Minchae%20Kim&fontSize=70&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65" width="100%" />
 </div>
 
 <div align="left">
@@ -54,15 +54,15 @@
 ## 🏅 Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&bg_color=60,d6e6ff,ffd6fc&title_color=ffffff&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&bg_color=30,6dd5ed,2193b0&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmc8260&layout=compact&bg_color=60,d6e6ff,ffd6fc&title_color=ffffff&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmc8260&layout=compact&bg_color=30,6dd5ed,2193b0&title_color=ffffff&text_color=ffffff"
 />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=100&section=footer" width="100%" />
 </div>
