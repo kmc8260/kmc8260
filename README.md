@@ -1,19 +1,68 @@
-## 🏅 Stats
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2193B0&center=true&vCenter=true&width=500&lines=Frontend+Developer;디자인+감각+%2B+기술+구현;Mirim+Meister+High+School" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=300&section=header&text=Hello%20World&fontSize=70&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=65" width="100%" />
 </div>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&bg_color=30,6dd5ed,2193b0&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmc8260&layout=compact&bg_color=30,6dd5ed,2193b0&title_color=ffffff&text_color=ffffff" />
-</p>
+<div align="left">
 
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com/?user=kmc8260&background=2193B0&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=FFFFFF00" />
-</p>
+## 🛠️ Tech Stacks
 
-<!-- 백준 하신다면 (아이디 교체) -->
-<p align="center">
-  <img height="150" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디" />
-</p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+
+---
+
+## 🧑‍💻 Contact Me
+
+<a href="https://www.notion.so/2f8d217912f5831d90b881b6d158724e?source=copy_link">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</a>
+
+<a href="mailto:kimmin8260@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+
+<a href="https://velog.io/@kmc8260/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
+
+---
+
+## 🏅 Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kmc8260&show_icons=true&bg_color=30,6dd5ed,2193b0&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmc8260&layout=compact&bg_color=30,6dd5ed,2193b0&title_color=ffffff&text_color=ffffff"
+/>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=100&section=footer" width="100%" />
+</div>
